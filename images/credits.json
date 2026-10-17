@@ -20,13 +20,6 @@
     "page": "https://commons.wikimedia.org/wiki/File%3A%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_-_Wat_Phra_Kaew%2C_Temple_of_Emerald_Buddha%2C_Bangkok%2C_Thailand.jpg",
     "file": "images/bangkok-grand-palace.jpg"
   },
-  "bangkok-yaowarat": {
-    "title": "Yaowarat Road at night.jpg",
-    "author": "Christophe95",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File%3AYaowarat_Road_at_night.jpg",
-    "file": "images/bangkok-yaowarat.jpg"
-  },
   "chiangmai-doi-suthep": {
     "title": "Phra That Doi Suthep 01.jpg",
     "author": " ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
@@ -40,13 +33,6 @@
     "license": "CC BY-SA 4.0",
     "page": "https://commons.wikimedia.org/wiki/File%3AChiang_Mai_sunday_evening_walking_street.jpg",
     "file": "images/chiangmai-walking-street.jpg"
-  },
-  "chiangmai-elephant": {
-    "title": "Elephant d'Asie (Elephant nature park, Thaïlande).jpg",
-    "author": "Chirstelle EL JAMALI",
-    "license": "CC BY 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File%3AElephant_d%27Asie_%28Elephant_nature_park%2C_Tha%C3%AFlande%29.jpg",
-    "file": "images/chiangmai-elephant.jpg"
   },
   "chiangmai-khao-soi": {
     "title": "Khao Soi Northern Thai food ข้าวซอย ผักดอง.jpg",
@@ -68,13 +54,6 @@
     "license": "CC BY-SA 3.0",
     "page": "https://commons.wikimedia.org/wiki/File%3AAo_Nang_beach_panorama_3.jpg",
     "file": "images/krabi-ao-nang.jpg"
-  },
-  "krabi-phi-phi": {
-    "title": "Playa Maya, Ko Phi Phi, Tailandia, 2013-08-19, DD 13.JPG",
-    "author": "Diego Delso",
-    "license": "CC BY-SA 3.0",
-    "page": "https://commons.wikimedia.org/wiki/File%3APlaya_Maya%2C_Ko_Phi_Phi%2C_Tailandia%2C_2013-08-19%2C_DD_13.JPG",
-    "file": "images/krabi-phi-phi.jpg"
   },
   "food-pad-thai": {
     "title": "Phat Thai kung Chang Khien street stall.jpg",
